@@ -1,0 +1,16 @@
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\bin\Debug\net11.0\Exercice_Exceptions.exe
+c:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\bin\Debug\net11.0\Exercice_Exceptions.deps.json
+c:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\bin\Debug\net11.0\Exercice_Exceptions.runtimeconfig.json
+c:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\bin\Debug\net11.0\Exercice_Exceptions.runtimeconfig.dev.json
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\bin\Debug\net11.0\Exercice_Exceptions.dll
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\bin\Debug\net11.0\Exercice_Exceptions.pdb
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.AssemblyInfoInputs.cache
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.AssemblyInfo.cs
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.dll
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\refint\Exercice_Exceptions.dll
+C:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.pdb
+c:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice_Exceptions.genruntimeconfig.cache
+c:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\ref\Exercice_Exceptions.dll
+c:\Users\thiou\OneDrive\Desktop\Test\Exercice_Fichiers\obj\Debug\net11.0\Exercice.5CF7C15C.Up2Date
